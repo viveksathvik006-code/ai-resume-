@@ -1,0 +1,10 @@
+role,required_skills
+Data Analyst,Python|SQL|Excel|Pandas|Power BI|Tableau|Statistics
+Machine Learning Engineer,Python|Machine Learning|scikit-learn|Pandas|NumPy|FastAPI|Docker|Git
+AI Engineer,Python|Deep Learning|LLM|RAG|LangChain|APIs|Docker|Git
+NLP Engineer,Python|NLP|Transformers|Hugging Face|PyTorch|Machine Learning|Git
+Computer Vision Engineer,Python|OpenCV|CNN|YOLO|Deep Learning|PyTorch|Git
+Python Developer,Python|Django|Flask|FastAPI|REST API|SQL|Git
+Cloud DevOps Engineer,Linux|Docker|Kubernetes|AWS|CI/CD|Git|Python
+Frontend Developer,JavaScript|TypeScript|HTML|CSS|React|Git|REST API
+ 

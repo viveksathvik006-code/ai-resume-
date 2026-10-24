@@ -1,0 +1,58 @@
+skill,category,aliases
+Python,Programming,python3
+Java,Programming,
+JavaScript,Programming,js
+TypeScript,Programming,
+C++,Programming,cpp
+C#,Programming,csharp
+.NET,Programming,dotnet
+HTML,Web,html5
+CSS,Web,css3
+React,Web,react.js|reactjs
+Angular,Web,angularjs
+Node.js,Web,nodejs|node js
+Django,Web,
+Flask,Web,
+FastAPI,Web,fast api
+REST API,Web,rest apis|restful api|restful apis
+APIs,Web,api
+SQL,Databases,
+PostgreSQL,Databases,postgres
+MySQL,Databases,
+MongoDB,Databases,mongo
+Pandas,Data,
+NumPy,Data,
+Excel,Data,ms excel|microsoft excel
+Power BI,Data,powerbi
+Tableau,Data,
+Matplotlib,Data,
+Statistics,Data,statistical analysis
+Machine Learning,Machine Learning,ml
+scikit-learn,Machine Learning,sklearn|scikit learn
+XGBoost,Machine Learning,
+MLflow,Machine Learning,
+Deep Learning,AI,
+NLP,AI,natural language processing
+Computer Vision,AI,
+CNN,AI,convolutional neural network|convolutional neural networks
+Transformers,AI,
+Hugging Face,AI,huggingface
+PyTorch,AI,torch
+TensorFlow,AI,
+OpenCV,AI,cv2
+YOLO,AI,yolov5|yolov8
+LLM,AI,llms|large language model|large language models
+RAG,AI,retrieval augmented generation|retrieval-augmented generation
+LangChain,AI,
+Docker,Cloud & DevOps,
+Kubernetes,Cloud & DevOps,k8s
+AWS,Cloud & DevOps,amazon web services
+Azure,Cloud & DevOps,microsoft azure
+GCP,Cloud & DevOps,google cloud
+Linux,Cloud & DevOps,
+CI/CD,Cloud & DevOps,github actions
+Git,Cloud & DevOps,
+GitHub,Cloud & DevOps,
+Streamlit,Tools,
+Postman,Tools,
+Jupyter,Tools,jupyter notebook

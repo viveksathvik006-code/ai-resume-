@@ -1,0 +1,7 @@
+ cd "Ai resume analyzer"
+
+ python -m venv .venv
+ 
+.venv\Scripts\activate 
+ 
+ python -m streamlit run App.py
